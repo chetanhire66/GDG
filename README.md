@@ -1,3 +1,8 @@
+## 🤝 Project Attribution
+
+This project was developed as a collaborative hackathon submission.
+
+The product idea, software engineering, AI development, backend implementation, frontend development, deployment, documentation, and presentation were completed collectively by the team, with individual responsibilities outlined in the **Team Contributions** section below.
 # 🏙️ UrbanAI – Intelligent City & Zone Insights Platform
 
 UrbanAI is a full-stack AI-powered web application that dynamically analyzes **cities, zones, and subzones** to provide **data-driven urban development insights**.  
